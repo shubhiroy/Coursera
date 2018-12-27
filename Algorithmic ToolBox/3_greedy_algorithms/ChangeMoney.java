@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Change {
+public class ChangeMoney {
     private static int getChange(int m) {
         //write your code here
         return m;
